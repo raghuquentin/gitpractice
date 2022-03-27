@@ -1,2 +1,3 @@
 Hello,
 I am text.txt from master branch
+master modified second time for some purpose
