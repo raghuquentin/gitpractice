@@ -1,2 +1,5 @@
 Hello,
 I am text.txt from master branch
+Hello,
+I am from  feature branch . added new feature
+
